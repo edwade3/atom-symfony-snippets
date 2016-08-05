@@ -1,0 +1,4 @@
+'.source.php':
+    'sfredirectroute':
+        'prefix': 'sfredirectroute'
+        'body': "\$this->redirectToRoute('${1:route}'${2:, [${3}]});"

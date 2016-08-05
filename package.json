@@ -1,0 +1,15 @@
+{
+  "name": "atom-symfony-snippets",
+  "version": "0.0.1",
+  "description": "A simple package that's provides useful snippets for the latest versions of Symfony",
+  "keywords": [
+    "php",
+    "symfony"
+  ],
+  "repository": "https://github.com/Cronos87/atom-symfony-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
