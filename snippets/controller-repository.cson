@@ -1,4 +1,4 @@
-'.source.php':
+'.text.html.php':
     'sfrepository':
         'prefix': 'sfrepository'
         'body': "\$em->getRepository('${1:AppBundle}:${2:Entity}');"

@@ -1,4 +1,4 @@
-'.source.php':
+'.text.html.php':
     'sfredirectroute':
         'prefix': 'sfredirectroute'
         'leftLabel': '2.6+'
